@@ -1,0 +1,15 @@
+D:\BATTLE-Ship\BATTLE-Ship\obj\Debug\net6.0\BATTLE-Ship.csproj.AssemblyReference.cache
+D:\BATTLE-Ship\BATTLE-Ship\obj\Debug\net6.0\BATTLE-Ship.GeneratedMSBuildEditorConfig.editorconfig
+D:\BATTLE-Ship\BATTLE-Ship\obj\Debug\net6.0\BATTLE-Ship.AssemblyInfoInputs.cache
+D:\BATTLE-Ship\BATTLE-Ship\obj\Debug\net6.0\BATTLE-Ship.AssemblyInfo.cs
+D:\BATTLE-Ship\BATTLE-Ship\obj\Debug\net6.0\BATTLE-Ship.csproj.CoreCompileInputs.cache
+D:\BATTLE-Ship\BATTLE-Ship\bin\Debug\net6.0\BATTLE-Ship.exe
+D:\BATTLE-Ship\BATTLE-Ship\bin\Debug\net6.0\BATTLE-Ship.deps.json
+D:\BATTLE-Ship\BATTLE-Ship\bin\Debug\net6.0\BATTLE-Ship.runtimeconfig.json
+D:\BATTLE-Ship\BATTLE-Ship\bin\Debug\net6.0\BATTLE-Ship.dll
+D:\BATTLE-Ship\BATTLE-Ship\bin\Debug\net6.0\BATTLE-Ship.pdb
+D:\BATTLE-Ship\BATTLE-Ship\obj\Debug\net6.0\BATTLE-Ship.dll
+D:\BATTLE-Ship\BATTLE-Ship\obj\Debug\net6.0\refint\BATTLE-Ship.dll
+D:\BATTLE-Ship\BATTLE-Ship\obj\Debug\net6.0\BATTLE-Ship.pdb
+D:\BATTLE-Ship\BATTLE-Ship\obj\Debug\net6.0\BATTLE-Ship.genruntimeconfig.cache
+D:\BATTLE-Ship\BATTLE-Ship\obj\Debug\net6.0\ref\BATTLE-Ship.dll
